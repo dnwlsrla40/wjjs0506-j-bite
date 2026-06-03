@@ -32,11 +32,11 @@ wjjs0506의 학습을 기록하는 공간입니다.
 <!-- LOG_TABLE_START -->
 | Date | Category | Topic | Link |
 | :--- | :--- | :--- | :--- |
+| 2026.06.04 | 🔢 Algorithm | Brute_모의고사_PG42840 | [Go](./algorithm/ps/Brute_모의고사_PG42840.md) |
+| 2026.06.04 | 🔢 Algorithm | Bfs_게임_맵_최단_거리_PG1844 | [Go](./algorithm/ps/Bfs_게임_맵_최단_거리_PG1844.md) |
+| 2026.06.04 | 🔢 Algorithm | Stack_올바른_괄호_PG12909 | [Go](./algorithm/ps/Stack_올바른_괄호_PG12909.md) |
 | 2026.05.06 | 🔢 Algorithm | Queue의_구현체 | [Go](./algorithm/Queue의_구현체.md) |
 | 2026.04.27 | 🗄️ DB | index | [Go](./db/index.md) |
-| 2026.04.20 | 🤖 AI | harness | [Go](./ai/harness.md) |
-| 2026.04.07 | 🔢 Algorithm | PG42576 | [Go](./algorithm/ps/PG42576.md) |
-| 2026.04.06 | 📁 Etc | Kafka_with_Spring | [Go](./etc/Kafka_with_Spring.md) |
 <!-- LOG_TABLE_END -->
 
 ## 🌲 Repository Structure
