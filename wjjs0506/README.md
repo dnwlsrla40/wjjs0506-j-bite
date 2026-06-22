@@ -32,11 +32,11 @@ wjjs0506의 학습을 기록하는 공간입니다.
 <!-- LOG_TABLE_START -->
 | Date | Category | Topic | Link |
 | :--- | :--- | :--- | :--- |
+| 2026.06.22 | 🔢 Algorithm | String_Lv2_최댓값과_최솟값_PG12939 | [Go](./algorithm/ps/String_Lv2_최댓값과_최솟값_PG12939.md) |
+| 2026.06.22 | 🔢 Algorithm | Brute_Lv2_숫자의_표현_PG12924 | [Go](./algorithm/ps/Brute_Lv2_숫자의_표현_PG12924.md) |
 | 2026.06.05 | 🔢 Algorithm | Dfs_Lv2_무인도_여행_PG154540 | [Go](./algorithm/ps/Dfs_Lv2_무인도_여행_PG154540.md) |
-| 2026.06.04 | 🔢 Algorithm | Bfs_게임_맵_최단_거리_PG1844 | [Go](./algorithm/ps/Bfs_게임_맵_최단_거리_PG1844.md) |
-| 2026.06.04 | 🔢 Algorithm | Stack_Lv2_올바른_괄호_PG12909 | [Go](./algorithm/ps/Stack_Lv2_올바른_괄호_PG12909.md) |
 | 2026.06.04 | 🔢 Algorithm | Brute_Lv1_모의고사_PG42840 | [Go](./algorithm/ps/Brute_Lv1_모의고사_PG42840.md) |
-| 2026.05.06 | 🔢 Algorithm | Queue의_구현체 | [Go](./algorithm/Queue의_구현체.md) |
+| 2026.06.04 | 🔢 Algorithm | Stack_Lv2_올바른_괄호_PG12909 | [Go](./algorithm/ps/Stack_Lv2_올바른_괄호_PG12909.md) |
 <!-- LOG_TABLE_END -->
 
 ## 🌲 Repository Structure
