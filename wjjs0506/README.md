@@ -32,11 +32,11 @@ wjjs0506의 학습을 기록하는 공간입니다.
 <!-- LOG_TABLE_START -->
 | Date | Category | Topic | Link |
 | :--- | :--- | :--- | :--- |
-| 2026.07.07 | 🔢 Algorithm | Stack_Lv2_짝지어_제거하기_PG12973 | [Go](./algorithm/ps/Stack_Lv2_짝지어_제거하기_PG12973.md) |
-| 2026.06.22 | 🔢 Algorithm | String_Lv2_최댓값과_최솟값_PG12939 | [Go](./algorithm/ps/String_Lv2_최댓값과_최솟값_PG12939.md) |
-| 2026.06.22 | 🔢 Algorithm | Brute_Lv2_숫자의_표현_PG12924 | [Go](./algorithm/ps/Brute_Lv2_숫자의_표현_PG12924.md) |
-| 2026.06.05 | 🔢 Algorithm | Dfs_Lv2_무인도_여행_PG154540 | [Go](./algorithm/ps/Dfs_Lv2_무인도_여행_PG154540.md) |
-| 2026.06.04 | 🔢 Algorithm | Brute_Lv1_모의고사_PG42840 | [Go](./algorithm/ps/Brute_Lv1_모의고사_PG42840.md) |
+| 2026.09.15 | 🤖 AI | claude code 사용법 | [Go](./ai/claude code 사용법.md) |
+| 2026.09.15 | 🗄️ DB | partitioning_vs_sharding | [Go](./db/partitioning_vs_sharding.md) |
+| 2026.07.29 | 🔢 Algorithm | Math_Lv2_N개의_최소공배수_PG12953 | [Go](./algorithm/ps/PG/Math_Lv2_N개의_최소공배수_PG12953.md) |
+| 2026.07.29 | 🔢 Algorithm | 조건에_부합하는_중고거래_상태_조회하기_PG164672 | [Go](./algorithm/ps/SQL/조건에_부합하는_중고거래_상태_조회하기_PG164672.md) |
+| 2026.07.29 | 🔢 Algorithm | 재구매가_일어난_상품과_회원_리스트_구하기_PG131536 | [Go](./algorithm/ps/SQL/재구매가_일어난_상품과_회원_리스트_구하기_PG131536.md) |
 <!-- LOG_TABLE_END -->
 
 ## 🌲 Repository Structure
